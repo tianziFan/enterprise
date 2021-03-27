@@ -8,7 +8,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8" %>
 <%@ include file="/manage/system/pageBase.jsp" %>
-<%@ page info="关于我们" %>
+<%@ page info="解决方案" %>
 <form action="<%=path %>/manage/about" name="form" id="form" method="post">
     <div style="height:auto!important;height:550px;min-height:550px;">
         <h3 style="border-bottom: 1px solid #D7D7D7;color: #666666;font-size: 28px;padding-bottom: 20px;margin-bottom: 30px;">

@@ -237,7 +237,7 @@
 
     </dependencies>
     <build>
-        <finalName>enterprise</finalName>
+        <finalName>bentley</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

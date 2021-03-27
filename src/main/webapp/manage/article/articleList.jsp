@@ -21,7 +21,7 @@
         </h3>
         <div class="filter">
             <button method="deletes" class="btn btn-danger" style="padding:0px 5px;margin-top: -4px;"
-                    onclick="return submitIDs(this,'确定删除选择的友情链接信息?');">
+                    onclick="return submitIDs(this,'确定删除选择的文章信息?');">
                 <i class="icon-trash"></i>删除
             </button>
             <div style="float: right">
